@@ -1,4 +1,6 @@
-# hy-trip
+# Vue3-trip
+该项目使用到的技术栈：Vue3 + Vue-Router + Pinia + Vite
+该项目是借鉴途家民俗公寓的移动端项目;
 
 This template should help get you started developing with Vue 3 in Vite.
 
